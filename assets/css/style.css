@@ -1,22 +1,22 @@
-/* HTML Section
+/*                                                                                          html
 ------------------------------------------------------------------------------------------------ */
 * {
-    box-sizing: border-box;
+    box-sizing: border-box;                             
     padding: 0;
     margin: 0;
-    color: #ffffff;
+    color: #ffffff;               /* changes the color of the text */
     text-decoration: none; 
 }
 p {
     font-size: 16px;
 }
-/* Body Section
+/*                                                                                          body
 ------------------------------------------------------------------------------------------------ */
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6;    /* changes the color of the pages background */
 }
 
-/* Header Section
+/*                                                                                        header
 ------------------------------------------------------------------------------------------------ */
 header {
     padding: 20px;
@@ -60,7 +60,7 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
-/* Main Section
+/*                                                                                          main
 ------------------------------------------------------------------------------------------------ */
 main {
     width: 75%;
@@ -80,7 +80,7 @@ main {
 
 
 
-/* Aside Section (Sidebar)
+/*                                                                               aside (sidebar)
 ------------------------------------------------------------------------------------------------ */
 aside {
     margin-right: 20px;
@@ -109,7 +109,7 @@ aside img {
     max-width: 150px;
 }
 
-/* Search Engine Optimization Section
+/*                                                            search engine optimization section
 ------------------------------------------------------------------------------------------------ */
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -129,7 +129,7 @@ aside img {
     max-height: 200px;
 }
 
-/* Online Reputation Management Section
+/*                                                          online reputation management section
 ------------------------------------------------------------------------------------------------ */
 .online-reputation-management {
     margin-bottom: 20px;
@@ -149,7 +149,7 @@ aside img {
     font-size: 36px;
 }
 
-/* Social Media Marketing Section
+/*                                                                social media marketing section
 ------------------------------------------------------------------------------------------------ */
 .social-media-marketing {
     margin-bottom: 20px;
@@ -169,7 +169,7 @@ aside img {
     max-height: 200px;
 }
 
-/* Footer
+/*                                                                                        footer
 ------------------------------------------------------------------------------------------------ */
 footer {
     padding: 30px;
